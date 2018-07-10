@@ -5,7 +5,7 @@
 
 ## A
 
-* Me siento muy abandonado 
+* Me siento abandonado 
 * Me siento abatido
 * Me siento abrumado
 * Estoy aburrido
@@ -79,3 +79,6 @@ TTemor, Templanza, Tentación,  **[Ternura](http://psicologos.mx/vision-arabe-de
 UUnidad.
 
 VVacilación, Vacío,  **[Valentía](http://psicologos.mx/aprovechar-una-crisis-personal.php)**, Valoración, Venganza, Vergüenza, Vulnerabilidad.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTAxMDgxNzg3NV19
+-->
