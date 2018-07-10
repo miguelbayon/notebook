@@ -5,7 +5,7 @@
 
 ## A
 
-* Me siento abandonado 
+* Me siento muy abandonado 
 * Me siento abatido
 * Me siento abrumado
 * Estoy aburrido
